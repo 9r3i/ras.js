@@ -57,4 +57,4 @@ this.toString=function(a){
 };
 };
 
-
+exports.ras=ras;
